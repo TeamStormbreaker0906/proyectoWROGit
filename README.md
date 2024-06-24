@@ -1,8 +1,12 @@
 # DERSCRECIPCION DEL ROBOT Y PROCESOS 
-SOMOS EL TEAM STOMBREAKER AÑADADIENDO UN POCO DE COMO FUE LA CONTRUCCION DE NUESTRO ROBOT,
-LA BASE LO CONSTRUIMOS DE ACRILICO, UTILIZAMOS DOS BATERIA DE LITIO DE 3.7V HACIENDO UN TOTAL DE 7.4V PARA ALIMENTAR EL MOTOR TRASERO Y EL MOTOR DELANTERO, Y ALIMENTANDO TAMBIEN AL ARDUINO, ESTA TRABANJAMDO CON TRES SENSORES ULTRASONICOS, UNO EN LA PARTE DELANTERA, UNO EN EL COSTADO IZQUIERDO Y UNO EN EL COSTADO DERECHO. TAMBIEN ESTAMOS TRABAJANDO CON UN PUENTE H, Y UNA LIGA CON UNA ESPECIE DE CORREDERA PARA QUE HAGA EL FUNCIONAMIENTO DE RESORTE PARA AYUDAR A TENER UN MEJOR MOVIENTO DE CRUCE 
+Somos el Team Stombreaker añadiendo un poco de como fue la construccion de nuestro robot,
+la base lo construimos de acrilico, utlizamos dos baterias de Litio de 3.7v Haciendo un total de 
+7.4v para alimentar el motor trasero y el motor delantero... Alimentando tambien el arduino.
 
-EL ROBOT ESTA TRABAJANDO CON DOS MOTORES DE 5V. EL MOTOR TRASERO AYUDA A LAS DOS RUEDAS DE ATRAS PARA QUE TENGA TRACCION EL ROBOT HACIA ADELANTE, Y EL MOTOR DE ADELANTE AYUDA A LOS RUEDAS DELANTERAS A CRUZAR, TENIENDO UN MOVIMIENTO AKERMAN 
+Esta trabajando con tres sensores ultrasonicos, uno en la parte delantera, uno en el costado izquierdo y uno en el costado derecho. Tambien estamos trabajando con un puente H, y una liga con una especie de corredera para que haga el funcionamiento de un resorte para ayudar a tener un mejor
+movimiento de cruce.
 
-FUE UN PROCESO MUY BUENO PERO A LA VEZ MUY FUERTE Y COMPLICADO, TUVIMOS MUCHAS DIFICULTADES EN LA PARTE DE LA PROGRAMACION PERO TRABAJANDO DIARIAMENTENTE SE PUDO LOGRAR UN OBJETIVO, ADEMAS DE SER
-UN OBJETIVO FUE UNA EXPERENCIA QUE NO PODREMOS OLVIDAR NUNCA 
+El robot esta trabajando con dos motores de 5v. El motor trasero ayuda a las dos ruedas de atras para que tenga traccion el robot para ir hacia adelante, y el motor de adelante ayuda a las ruedas delanteras a cruzar, teniendo un movimiento ackermann.
+
+Fue un proceso muy bueno pero a la vez muy fuerte y complicado, tuvimos muchas dificultades en la parte de la programacion pero trabajando diariamente se pudo lograr nuestro objetivo, ademas
+de ser un objetivo fue una experiencia que no podremos olvidar nunca.
